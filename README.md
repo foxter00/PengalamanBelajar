@@ -35,7 +35,4 @@ Belajar JavaScript untuk pemula (Progress 30%)
 **1 Agustus 2021**  
 Belajar JS untuk pemula (Progress 10%)  
 Belajar JS untuk pemula (Progress 20%)  
-Belajar JS untuk pemula (Progress 30%)  
-Belajar JS untuk ktia semua
-
-
+Belajar JS untuk pemula (Progress 30%)
