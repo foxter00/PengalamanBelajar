@@ -24,5 +24,5 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 **30 Agustus 2021**  
 Belajar Github untuk Pemula (Progress 70%)
 Belajar Github untuk Pemula (Progress 80%)
-
+Belajar Github untuk Pemula (Progress 90%)
 
