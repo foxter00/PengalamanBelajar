@@ -31,3 +31,6 @@ Belajar Github untuk Pemula (Progress 100%)
 Belajar JavaScript untuk pemula (Progress 10%)  
 Belajar JavaScript untuk pemula (Progress 20%)  
 Belajar JavaScript untuk pemula (Progress 30%)
+
+**1 Agustus 2021**  
+Belajar JS untuk pemula (Progress 10%)
