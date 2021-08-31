@@ -36,6 +36,6 @@ Belajar JavaScript untuk pemula (Progress 30%)
 Belajar JS untuk pemula (Progress 10%)  
 Belajar JS untuk pemula (Progress 20%)  
 Belajar JS untuk pemula (Progress 30%)  
-Belajar JS untuk siapa saja
+Belajar JS untuk ktia semua
 
 
